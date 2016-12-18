@@ -1,4 +1,4 @@
-//PROGRAM FOR MERGE SORT                              ROLL NO:153108
+//PROGRAM FOR MERGE SORT           
 
 #include<conio.h>
 #include<stdio.h>
