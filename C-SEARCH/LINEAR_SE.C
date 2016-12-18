@@ -1,4 +1,4 @@
-//program  for linear search                             roll no:153108
+//program  for linear search              
 
 #include<stdio.h>
 #include<conio.h>
