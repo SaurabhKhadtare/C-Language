@@ -1,4 +1,4 @@
-//program for selection sort             roll no:153108
+//program for selection sort     
 
 #include<stdio.h>
 #include<conio.h>
