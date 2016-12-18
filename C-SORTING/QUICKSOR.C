@@ -1,4 +1,4 @@
-//PROGRAM FOR QUICK SORT           ROLL NO:15
+//PROGRAM FOR QUICK SORT      
 
 #include<stdio.h>
 #include<conio.h>
